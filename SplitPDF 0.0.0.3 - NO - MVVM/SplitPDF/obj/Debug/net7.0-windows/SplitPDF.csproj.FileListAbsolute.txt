@@ -1,0 +1,162 @@
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.exe
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.deps.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.runtimeconfig.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.AssemblyReference.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.lref
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.g.resources
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfoInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfo.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.CoreCompileInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\refint\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.genruntimeconfig.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\ref\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_Content.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.exe
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.deps.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.runtimeconfig.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.AssemblyReference.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.lref
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.g.resources
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfoInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfo.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.CoreCompileInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\refint\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.genruntimeconfig.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Latest\SplitPDF\obj\Debug\net7.0-windows\ref\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.exe
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.deps.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.runtimeconfig.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.AssemblyReference.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.lref
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.g.resources
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfoInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfo.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.CoreCompileInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\refint\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.genruntimeconfig.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - MVVM\SplitPDF\obj\Debug\net7.0-windows\ref\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.exe
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.deps.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.runtimeconfig.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Core.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Package.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.AssemblyReference.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.lref
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.g.resources
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfoInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfo.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.CoreCompileInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.CopyComplete
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\refint\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.genruntimeconfig.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\ref\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.exe
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.deps.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.runtimeconfig.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Core.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Package.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\PdfSharp.Charting.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\PdfSharp.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\de\PdfSharp.resources.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.AssemblyReference.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.lref
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.g.resources
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfoInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfo.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.CoreCompileInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.CopyComplete
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\refint\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.genruntimeconfig.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.1\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\ref\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.exe
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.deps.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.runtimeconfig.json
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Core.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Package.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\UglyToad.PdfPig.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\PdfSharp.Charting.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\PdfSharp.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\bin\Debug\net7.0-windows\de\PdfSharp.resources.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.AssemblyReference.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF_MarkupCompile.lref
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.g.resources
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfoInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.AssemblyInfo.cs
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.CoreCompileInputs.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.csproj.CopyComplete
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\refint\SplitPDF.dll
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.pdb
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\SplitPDF.genruntimeconfig.cache
+C:\Users\Nori\OneDrive\Desktop\SplitPDF\App\SplitPDF 0.0.0.2\SplitPDF - Base - NO - MVVM\SplitPDF\obj\Debug\net7.0-windows\ref\SplitPDF.dll

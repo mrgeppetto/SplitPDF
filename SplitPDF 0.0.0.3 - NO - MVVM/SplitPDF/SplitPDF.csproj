@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\Button_Close.png" />
+    <None Remove="Icons\Button_Maximize.png" />
+    <None Remove="Icons\Button_Minimize.png" />
+    <None Remove="Icons\Combine.png" />
+    <None Remove="Icons\Drag you files into the list.png" />
+    <None Remove="Icons\Logo.png" />
+    <None Remove="Icons\PDF_Split.png" />
+    <None Remove="Icons\Remove.png" />
+    <None Remove="Icons\Split.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Themes\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.0.0" />
+    <PackageReference Include="PdfPig" Version="0.1.7" />
+    <PackageReference Include="PdfSharp" Version="1.50.5147" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\Button_Close.png" />
+    <Resource Include="Icons\Button_Maximize.png" />
+    <Resource Include="Icons\Button_Minimize.png" />
+    <Resource Include="Icons\Combine.png" />
+    <Resource Include="Icons\Drag you files into the list.png" />
+    <Resource Include="Icons\Logo.png" />
+    <Resource Include="Icons\PDF_Split.png" />
+    <Resource Include="Icons\Remove.png" />
+    <Resource Include="Icons\Split.png" />
+  </ItemGroup>
+
+</Project>

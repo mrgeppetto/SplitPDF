@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUgPL2F3qWxTxGWBqCXku1qhP+8UnxO4OS9qenpSdJ5/XkhPU/ebcgAlhVAQ7H3O7eGfJHuI+FzdfxnrnOWW5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nori\\OneDrive\\Desktop\\SplitPDF\\App\\SplitPDF 0.0.0.2\\SplitPDF - Base - NO - MVVM\\SplitPDF\\SplitPDF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nori\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nori\\.nuget\\packages\\pdfpig\\0.1.7\\pdfpig.0.1.7.nupkg.sha512",
+    "C:\\Users\\Nori\\.nuget\\packages\\pdfsharp\\1.50.5147\\pdfsharp.1.50.5147.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PDFsharp 1.50.5147' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "PDFsharp",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
